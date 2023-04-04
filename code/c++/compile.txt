@@ -1,1 +1,1 @@
-g++ -std=c++11 -o prime_twins prime_twins.cpp
+g++ -std=c++17 -o prime_twins prime_twins.cpp
