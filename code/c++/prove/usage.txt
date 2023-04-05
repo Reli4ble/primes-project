@@ -1,0 +1,5 @@
+### prove one number (561) with (5) interations
+$ ./miller_rabin 561 5
+
+### prove numbers fron numbers.txt with (5) iterations
+$ ./miller_rabin numbers.txt 5
