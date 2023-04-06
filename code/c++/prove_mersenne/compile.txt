@@ -1,0 +1,2 @@
+### compile on mac
+g++ -std=c++17 -I/opt/homebrew/opt/gmp/include -L/opt/homebrew/opt/gmp/lib -o miller_rabin_mersenne miller_rabin_mersenne_GMP.cpp -lgmp -lgmpxx
