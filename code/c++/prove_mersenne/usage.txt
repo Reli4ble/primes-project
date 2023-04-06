@@ -1,5 +1,5 @@
 ### prove one mersenne number (1*2^5-1) with (5) interations
 $ ./miller_rabin "1*2^5-1" 5
 
-### prove numbers from numbers.txt with (5) iterations
+### prove mersenne numbers from numbers.txt with (5) iterations
 $ ./miller_rabin numbers.txt 5
